@@ -1,0 +1,7 @@
+cairosvg
+git+https://github.com/openai/CLIP.git
+lpips
+opencv-python
+pandas
+scikit-image
+torch

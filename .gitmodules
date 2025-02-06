@@ -1,0 +1,9 @@
+[submodule "datasets/fluentui-emoji"]
+	path = datasets/fluentui-emoji
+	url = https://github.com/microsoft/fluentui-emoji.git
+[submodule "datasets/noto-emoji"]
+	path = datasets/noto-emoji
+	url = https://github.com/googlefonts/noto-emoji.git
+[submodule "datasets/twemoji"]
+	path = datasets/twemoji
+	url = https://github.com/twitter/twemoji.git
