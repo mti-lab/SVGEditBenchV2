@@ -1,4 +1,5 @@
 # SVGEditBenchV2
+We will publish the code for the experiment soon.
 ## Steps to restore the dataset
 1. Clone this repository along with the submodules
 ```bash
