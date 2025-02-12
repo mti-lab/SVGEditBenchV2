@@ -32,8 +32,8 @@ python src/4_extract_pairs.py lpips+cos.pkl data triplets 3000 3
 
 3. Add the API keys to the environment variable
 ```
-OPENAI_API_KEY="(YOUR OPENAI API KEY)"'
-GEMINI_API_KEY="(YOUR GEMINI API KEY)"'
+OPENAI_API_KEY="(YOUR OPENAI API KEY)"
+GEMINI_API_KEY="(YOUR GEMINI API KEY)"
 ```
 
 4. Run the following command to retrieve the editing prompts
