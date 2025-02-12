@@ -1,4 +1,6 @@
 data/
 emoji-zwj-sequences.txt
 triplets/
+.env
+*.jsonl
 __pycache__

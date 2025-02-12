@@ -1,7 +1,15 @@
 cairosvg
+func-timeout
 git+https://github.com/openai/CLIP.git
+google-generativeai
 lpips
+openai
 opencv-python
 pandas
+pydantic
+python-dotenv
 scikit-image
+svgpathtools
 torch
+torchmetrics
+vllm
