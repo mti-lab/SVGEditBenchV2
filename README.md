@@ -1,5 +1,5 @@
 # SVGEditBenchV2
-We will publish the code for the experiment soon.
+This is the repository for the paper, [SVGEditBench V2: A Benchmark for Instruction-based SVG Editing](https://arxiv.org/abs/2502.19453).
 ## Steps to restore the dataset
 1. Clone this repository along with the submodules
 ```bash
